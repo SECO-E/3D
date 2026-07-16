@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "plan-ceo-review": {
+      "source": "garrytan/gstack",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plan-ceo-review/SKILL.md",
+      "computedHash": "2cb16c269e03a3c83cc5b2b1a31e25231560cd78190b6539824f3d9fffcc1f96"
+    }
+  }
+}
