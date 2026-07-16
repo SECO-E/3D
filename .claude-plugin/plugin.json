@@ -1,0 +1,11 @@
+{
+  "name": "founder-skills",
+  "description": "Essential skills for founders: SOPs, conversion optimization, viral hooks, lead magnets, social media writing, outreach, and strategic planning",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ognjen Gatalo"
+  },
+  "repository": "https://github.com/ognjengt/founder-skills",
+  "license": "MIT",
+  "keywords": ["founder", "marketing", "copywriting", "outreach", "linkedin", "sop", "strategy"]
+}
